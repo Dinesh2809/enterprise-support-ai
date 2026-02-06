@@ -1,0 +1,6 @@
+Login issues can be fixed by resetting the password.
+Payment failures may occur due to expired cards or gateway downtime.
+Bug reports should be escalated to engineering.
+Feature requests are reviewed by the product team.
+Account locked issues require admin reset.
+Refund requests are handled by billing support.
